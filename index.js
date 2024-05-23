@@ -12,6 +12,7 @@ console.log({sum:par1+par2})
 console.log("Attah Ojima Aaron")
 console.log("Omoge Oluwadare Samuel")
 console.log("Adegoke Olujide Michael")
+console.log("Still testing")
 
 }
 
